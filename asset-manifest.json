@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo_oleg/static/css/main.a839007b.chunk.css",
+    "main.js": "/todo_oleg/static/js/main.e7a1f15e.chunk.js",
+    "main.js.map": "/todo_oleg/static/js/main.e7a1f15e.chunk.js.map",
+    "runtime-main.js": "/todo_oleg/static/js/runtime-main.40eba15f.js",
+    "runtime-main.js.map": "/todo_oleg/static/js/runtime-main.40eba15f.js.map",
+    "static/js/2.4a1b5edb.chunk.js": "/todo_oleg/static/js/2.4a1b5edb.chunk.js",
+    "static/js/2.4a1b5edb.chunk.js.map": "/todo_oleg/static/js/2.4a1b5edb.chunk.js.map",
+    "index.html": "/todo_oleg/index.html",
+    "static/css/main.a839007b.chunk.css.map": "/todo_oleg/static/css/main.a839007b.chunk.css.map",
+    "static/js/2.4a1b5edb.chunk.js.LICENSE.txt": "/todo_oleg/static/js/2.4a1b5edb.chunk.js.LICENSE.txt",
+    "static/media/tg.aa781e00.png": "/todo_oleg/static/media/tg.aa781e00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40eba15f.js",
+    "static/js/2.4a1b5edb.chunk.js",
+    "static/css/main.a839007b.chunk.css",
+    "static/js/main.e7a1f15e.chunk.js"
+  ]
+}
